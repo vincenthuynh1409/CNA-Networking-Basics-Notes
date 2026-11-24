@@ -36,5 +36,9 @@
 - **Sensors and Actuators** = sensors provide temp, pressure, humidity, wind speed, etc. and Actuators can then be automatically trigged based on current conditions.
 - **Medical Devices** = pacemakers, insulin pumps, and hospital monitors provide feedback/alerts.
 
+<br>
+
+## (1.2) Data Transmission
+
 
 
