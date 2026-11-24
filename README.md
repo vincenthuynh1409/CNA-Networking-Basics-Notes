@@ -2,7 +2,7 @@
 
 ## 👋 Introduction:
 
-This course covers the foundation of networking and network devices, media, and protocols. You will observe data flowing through a network and configure devices to connect to networks. Finally, you will learn how to use different network applications and protocols to accomplish networking tasks. 
+Personal notes and study documentation from Cisco Networking Academy's Networking Basics course. Covers foundational networking concepts, network devices, protocols, IP addressing, and network communication. Created to reinforce my understanding of networking fundamentals and support my continued learning in cybersecurity.
 
 ## 🗺️ Navigation:
 
